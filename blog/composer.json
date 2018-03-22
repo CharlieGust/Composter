@@ -1,0 +1,12 @@
+{
+
+    "repositories": [
+       {
+           "type": "git",
+           "url": "git@github.com:CharlieGust/Project1.git"
+       }
+   ],
+    "require": {
+        "charliegust/hello-world": "dev-master"
+    }
+}
